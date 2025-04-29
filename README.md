@@ -2,6 +2,10 @@
 SQL Queries to analyze data from database
 Added all screenshots of SQL queries in the given PDF.
 Used Select, Where, Order By, Group By
+
+AGGREGATIONS Functions like sum(), count()
+use group by for HOUR in given month
+Limit used to provide top rows for the result.
 Use the Joins
 Used the Windows Functions(like Rank())
 Optimize the queries using subqueries, indexes.
